@@ -4,7 +4,9 @@
 - Clone my repository.
 - Open CMD in working directory.
 - Run following command.
-  ```git clone https://github.com/dhananjaykr306/Predicting-Possible-Loan-Default
+- 
+  ```
+  git clone https://github.com/dhananjaykr306/Predicting-Possible-Loan-Default
   ```
 
   ```
