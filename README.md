@@ -10,7 +10,7 @@
   ```
 
   ```
-  cd Predicting Possible Loan Default
+  cd Predicting-Possible-Loan-Default
   ```
 
   ```
