@@ -6,6 +6,10 @@
 - Run following command.
 
   ```
+  cd Predicting Possible Loan Default
+  ```
+
+  ```
   pip install -r requirements.txt
   ```
 - `Bank_Loan_Prediction.py` is the main Python file of Streamlit App. 
